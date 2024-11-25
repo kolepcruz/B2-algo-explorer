@@ -1,0 +1,4 @@
+/home/kole/lucilena_final/build/Desktop-Debug/CMakeFiles/lucilena_final.dir
+/home/kole/lucilena_final/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kole/lucilena_final/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kole/lucilena_final/build/Desktop-Debug/CMakeFiles/lucilena_final_autogen.dir

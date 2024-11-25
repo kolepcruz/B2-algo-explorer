@@ -1,0 +1,4 @@
+/home/kole/lucilena_final/build/Desktop-MinSizeRel/CMakeFiles/lucilena_final.dir
+/home/kole/lucilena_final/build/Desktop-MinSizeRel/CMakeFiles/edit_cache.dir
+/home/kole/lucilena_final/build/Desktop-MinSizeRel/CMakeFiles/rebuild_cache.dir
+/home/kole/lucilena_final/build/Desktop-MinSizeRel/CMakeFiles/lucilena_final_autogen.dir
